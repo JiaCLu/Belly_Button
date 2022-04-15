@@ -7,4 +7,4 @@ The Belly Button project create attractive charts in Plotly, as well as use Java
 - Software: JavaScript, HTML/CSS, Visual Studio Code, Plotly, BootStrap
 
 ### Belly_Button Biodiversity Dashboard
-[Belly Button Link](https://bobocomfy.github.io/Belly_Button/)
+[Belly Button Link](https://jiaclu.github.io/Belly_Button/)
